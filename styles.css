@@ -2,7 +2,9 @@
 #yellow{
 	background-color: yellow;
 	border-color: green;
-	border-width: 1px;
+	border-top-width: 1px;
+	
+	
 	border-top: solid;
 	border-bottom: solid;
 	border-right: solid;
